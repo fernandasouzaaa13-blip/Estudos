@@ -1,0 +1,30 @@
+.title{
+    color:rebeccapurple;
+    background-color:lightgray;
+    padding:10px;
+    font-family:'Open Sans',sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0%;
+}
+h2{
+    background-color:#dba5ffd1;
+    border-radius: 10px;
+    padding: 5px;
+}
+.title-bib{
+    margin: 0%;
+    color:rebeccapurple;
+    background-color:lightgray;
+    padding:10px;
+    font-family:'Open Sans',sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.Bibliografia{
+    font-weight: bold;
+}
+body{
+    background-color: rgba(211, 211, 211, 0.438);
+}
